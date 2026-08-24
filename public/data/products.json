@@ -2,11 +2,20 @@
   "products": [
     {
       "id": "1",
-      "name": "Test Product",
-      "description": "A test product",
-      "price": 10,
+      "name": "Updated Product",
+      "description": "Updated from MerchForge",
+      "price": 25,
       "image": "/data/products/test-product.jpg",
       "category": "General",
+      "available": true
+    },
+    {
+      "id": "2",
+      "name": "Brand New Product",
+      "description": "Created from the dashboard",
+      "price": 50,
+      "image": "/data/products/new-product.jpg",
+      "category": "New",
       "available": true
     }
   ]
